@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**Mahmoud-Hassan98/Mahmoud-Hassan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahmoud Hassan, a passionate full-stack developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on exciting web development projects.
+- 🌱 I’m constantly learning and expanding my skill set.
+- 💬 Ask me about anything related to web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hassan98&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Hassan98&layout=compact&theme=dark)](https://github.com/YourUsername)
+
+
